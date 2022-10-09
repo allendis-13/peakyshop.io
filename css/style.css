@@ -1,0 +1,22 @@
+body{
+    user-select: none;
+}
+
+.main-icon{
+    width: 56px;
+    height: 75px;
+}
+
+.buscador{
+    height: 35px;
+    text-align: center;
+    border: none;
+    outline: none;
+    margin: 1%;
+}
+
+.button-buscar{
+    border: none;
+    
+    margin: 1%;
+}
